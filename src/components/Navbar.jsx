@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {navItems} from '../constants/index'
 import styles from '../style'
-import logo from '../assets/imgs/logo.png'
+import logo from '../assets/imgs/Logo.png'
 import menu from '../assets/imgs/menu.svg'
 import close from '../assets/imgs/close.svg'
 
